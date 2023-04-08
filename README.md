@@ -4,4 +4,4 @@ This portfolio website showcases the work of Szymon Kowalczyk (algidaphotos.com)
 
 The portfolio website serves as a platform for Szymon to showcase his work and skills as a visual artist, photographer, and director. The website features a modern and minimalist design, which allows Szymon's work to take center stage. The project was built using HTML, CSS, JavaScript.
 
-To view the website, simply visit https://algidaphotos-40159.web.app/
+To view the website, simply visit https://algidaphotos.com
